@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Yoonsung 👋
 
-<!--
-**coouir/coouir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate in the Department of Software at Korea Aerospace University and an undergraduate researcher at CVLAB.
 
-Here are some ideas to get you started:
+My research interests include computer vision, SAR satellite imagery, and tool-using LLM agents, particularly planning and failure analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Work
+
+- **[EASSQAA](https://github.com/coouir/EASSQAA)** — Error Analysis of SAR Ship Question Answering Agents
+
+  I implemented and evaluated stepwise and upfront planning agents for SAR ship question answering, distinguishing detector-induced input errors from agent errors across 3,960 runs.
+
+  *Submitted to the 2026 KIBME Fall Conference.*
+
+[Website](https://coouir.github.io/) · [LinkedIn](https://www.linkedin.com/in/yoonsungjung) · [Email](mailto:yoonsung-jung@naver.com)
